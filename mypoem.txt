@@ -1,2 +1,4 @@
 The sky is blue.
 I've lost my hat.
+
+Now I'm adding this from Atom.
